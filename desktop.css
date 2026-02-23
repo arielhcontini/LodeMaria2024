@@ -80,7 +80,7 @@ a{
   display: flex;
   flex-direction: column;
   width: 100%;
-  max-width: 540px;
+  max-width: 480px;
   margin:0 auto;
 padding:0;
   height: auto;
