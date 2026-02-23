@@ -133,7 +133,7 @@ header{
 .logo img{
   display: flex;
   flex-direction: column;
-  width: 100%;
+  width: 88%;
   max-width: 320px;
   height: auto;
   padding-top: 6.4rem;
@@ -167,7 +167,7 @@ header{
   font-weight: 400;
   text-align: left;
   color: var(--primary-100);
-  padding: 2.4rem;
+  padding: .64rem;
 }
 
 /* BARRA DE NAVEGACION*/
